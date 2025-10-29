@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1761704502 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\tdavectorestatico\vectorestatico.c
+	"VectorEstatico.h"
+
+1761704486 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\tdavectorestatico\vectorestatico.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

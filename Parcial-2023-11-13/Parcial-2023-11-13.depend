@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761704224 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\parcial-2023-11-13\main.c
+	<stdio.h>
+	<stdlib.h>
+
