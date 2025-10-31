@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1761935564 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\piladinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1761936692 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\piladinamica\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1761936732 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\piladinamica\piladinamica.c
+	"pilaDinamica.h"
+
