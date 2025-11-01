@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1762023414 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio2.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEstatica.h"
+	"archivo.h"
+
+1762017503 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio2.4\pilaestatica.c
+	"pilaEstatica.h"
+
+1762017503 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio2.4\pilaestatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762023580 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio2.4\archivo.c
+	"archivo.h"
+
+1762023425 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio2.4\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	"pilaEstatica.h"
+
