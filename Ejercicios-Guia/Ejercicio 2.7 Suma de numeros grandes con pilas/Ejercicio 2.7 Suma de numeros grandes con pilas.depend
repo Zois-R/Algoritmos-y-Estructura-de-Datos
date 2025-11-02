@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1762106252 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.7 suma de numeros grandes con pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ejercicio.h"
+
+1762095028 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.7 suma de numeros grandes con pilas\pilaestatica.c
+	"pilaEstatica.h"
+
+1762095028 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.7 suma de numeros grandes con pilas\pilaestatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1762104117 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.7 suma de numeros grandes con pilas\ejercicio.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilaEstatica.h"
+
+1762106285 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.7 suma de numeros grandes con pilas\ejercicio.c
+	"ejercicio.h"
+
