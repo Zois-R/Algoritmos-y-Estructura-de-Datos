@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1762037155 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.6 ordenar archivo con pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+	"archivos.h"
+
+1762039061 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.6 ordenar archivo con pilas\archivos.c
+	"archivos.h"
+	"pilaDinamica.h"
+
+1762037117 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.6 ordenar archivo con pilas\archivos.h
+	<stdio.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1762030727 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.6 ordenar archivo con pilas\piladinamica.c
+	"pilaDinamica.h"
+
+1762030750 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\ejercicio 2.6 ordenar archivo con pilas\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
