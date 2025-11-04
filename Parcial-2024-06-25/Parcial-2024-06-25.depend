@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1762225032 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\parcial-2024-06-25\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEstatica.h"
+
+1762215760 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\parcial-2024-06-25\pilaestatica.c
+	"pilaEstatica.h"
+
+1762215760 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\parcial-2024-06-25\pilaestatica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
