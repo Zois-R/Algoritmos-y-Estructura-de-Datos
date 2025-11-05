@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1762363082 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\evaluacionexppostfijas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaDinamica.h"
+
+1762315337 source:c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\evaluacionexppostfijas\piladinamica.c
+	"pilaDinamica.h"
+
+1762312766 c:\users\dell\desktop\thepathofthewise\algoritmos-y-estructura-de-datos\ejercicios-guia\evaluacionexppostfijas\piladinamica.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
